@@ -1,0 +1,14 @@
+categoria="gerente"
+bonoPresentismo="ajuste"
+bonoResultado="porcentaje"
+
+def sueldoDePepe(n, s):
+    categoria=20000
+    bonoPresentismo=2000
+    bonoResultado=800    
+    if n<=20000:
+        categoria=n*s
+        
+        
+        
+        
